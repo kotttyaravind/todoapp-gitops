@@ -8,4 +8,4 @@ namePrefix: dev-
 
 images:
   - name: aravindkotty/todoapp
-    newTag: latest     # Jenkins updates this line with BUILD_NUMBER
+    newTag: "5"
