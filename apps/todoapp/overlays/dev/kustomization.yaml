@@ -8,4 +8,4 @@ namePrefix: dev-
 
 images:
   - name: aravindkotty/todoapp
-    newTag: "5"
+    newTag: "6"
